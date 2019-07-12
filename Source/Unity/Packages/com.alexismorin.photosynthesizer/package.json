@@ -1,0 +1,12 @@
+{
+    "name": "com.alexismorin.photosynthesizer",
+    "displayName": "Photosynthesizer",
+    "version": "1.0.0",
+    "unity": "2019.2",
+    "description": "Place seeds and watch foliage grow across your maps.",
+    "keywords": [
+        "foliage",
+        "level art"
+    ],
+    "category": "Open-Source"
+}
