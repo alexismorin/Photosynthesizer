@@ -3,7 +3,7 @@
 
 ![gif](images/gif.gif)
 
-I hate placing foliage so damn much! We know how it should clump together, spread intelligently throughout the scene and in general act as foliage should - yet it's a constant battle with the UE4 foliage tool or PolyBrush. Anyways, with this little tool you can now plant "seeds" throughout your map and procedurally see them blossom and expand onto the map.
+I hate placing foliage so damn much! We know how it should clump together, spread intelligently throughout the scene and in general act as foliage should - yet it's a constant battle with the UE4 foliage tool or PolyBrush. Anyways, with this little tool you can now plant "seeds" throughout your map and procedurally see them blossom and flourish across your stuff.
 
 ### Usage - Unity 2019.2
 
