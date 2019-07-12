@@ -47,8 +47,8 @@ MonoBehaviour:
   - {fileID: 8181942881404021777, guid: f6f48828c487cb44887d3835c4ec31b0, type: 3}
   - {fileID: 8661735646725850420, guid: 8957fd91ba46d06458b6f935e91015b1, type: 3}
   seedRangeCustomizer: 1.5
-  densityCustomizer: 0.3
-  rangeScale: {x: 0.9, y: 1.1}
+  densityCustomizer: 0.5
+  rangeScale: {x: 0.2, y: 2}
   layerControl:
     serializedVersion: 2
     m_Bits: 4294967295
